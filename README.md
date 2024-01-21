@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @includeHasan
-- 👀 I’m interested in Web development and DSA
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Hasan
 
-<!---
-includeHasan/includeHasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about web development and diving into the world of data structures and algorithms.
+
+- 🌱 Currently learning and exploring the exciting field of web development.
+
+## 🔧 Technologies & Tools
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+## 📫 How to reach me
+
+Feel free to connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/khanhasan2004/)
+- [Twitter](https://twitter.com/hasann_khann)
+- Instagram: hasann_786
+
+Let's collaborate and create something awesome together! 🚀
