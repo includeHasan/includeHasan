@@ -20,4 +20,6 @@ Feel free to connect with me:
 - [Twitter](https://twitter.com/hasann_khann)
 - Instagram: hasann_786
 
-Let's collaborate and create something awesome together! 🚀
+Feel free to reach out if you share a passion for coding, development, 
+or if you're interested in collaborating on exciting projects! 
+Let's build something amazing together. 🚀
