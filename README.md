@@ -18,7 +18,7 @@ Feel free to connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/khanhasan2004/)
 - [Twitter](https://twitter.com/hasann_khann)
-- Instagram: hasann_786
+
 
 Feel free to reach out if you share a passion for coding, development, 
 or if you're interested in collaborating on exciting projects! 
